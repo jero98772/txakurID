@@ -16,7 +16,9 @@ se usa aprovecha el wifi como señal para intuir donde puede estar mediante la p
 
 ![signal](https://github.com/jero98772/txakurID/blob/main/docs/pictures/signal.jpg)
 ![wifi](https://github.com/jero98772/txakurID/blob/main/docs/pictures/wifi.jpg)
-**imagene de la pagina web no encotrada,pendiente repetirla**
+
+**imagen de la pagina web no encotrada,pendiente repetirla**
+
 ![imagene de la pagina web]() 
 
  
