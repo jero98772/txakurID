@@ -13,7 +13,7 @@ se usa aprovecha el wifi como señal para intuir donde puede estar mediante la p
 
 ### fotos 
 
-![web_identification](https://github.com/jero98772/txakurID/blob/main/docs/pictures/web_identification.jpg)
+![web_identification](https://github.com/jero98772/txakurID/blob/main/docs/pictures/web_identification.png)
 ![signal](https://github.com/jero98772/txakurID/blob/main/docs/pictures/signal.jpg)
 ![wifi](https://github.com/jero98772/txakurID/blob/main/docs/pictures/wifi.jpg)
 
