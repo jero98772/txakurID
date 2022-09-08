@@ -1,6 +1,6 @@
 # txakurID
 
-![logo](https://github.com/jero98772/txakurID/blob/main/docs/pictures/logo.jpg)
+![logo](https://github.com/jero98772/txakurID/blob/main/docs/pictures/logo.png)
 
 un proyecto para generar un esp8266 con chip de identificacion canino , aprovechando que el wifi del esp2866 .
 
